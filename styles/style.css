@@ -808,6 +808,7 @@ input.form-control {
   height: auto;
   border-radius: 20px;
   max-width: 500px;
+  width: 100%;
 }p {
   line-height: 32px;
 }.card button {
