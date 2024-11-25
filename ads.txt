@@ -1,5 +1,8 @@
 google.com, pub-8768412744761524, DIRECT, f08c47fec0942fa0
+wgplayer.com, WGA5702260231, DIRECT
 
+#WG ADX			
+google.com, pub-4529402052683454, RESELLER, f08c47fec0942fa0	
 
 # WGSOVRN
 sovrn.com, 267609, DIRECT, fafdf38b16bf6b2b
